@@ -9,9 +9,11 @@ This project seeks to help an electric car sharing service companyby analyzing t
 Identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018.
 
 **Motivation**
+
 This project was undertaken as part of an assessemnt for a Data Science Course
 
 **Summary Guideline of Topics Covered in Analysis**
+
 Importing Python Libraries
 Loading Dataset
 Accessing Information about the dataset
@@ -27,4 +29,5 @@ Google Colab
 Jupyter Notebook
 
 Contact details
+
 https://github.com/PriscillaMuli

@@ -4,7 +4,7 @@
 
 **Description**
 
-This project seeks to help an electric car sharing service companyby analyzing the Autolib Dataset to  understand electric car usage over time. The project aims to solve the research problem which is to;
+This project seeks to help an electric car sharing service company by analyzing the Autolib Dataset to  understand electric car usage over time. The project aims to solve the research problem which is to;
 
 Identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018.
 

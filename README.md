@@ -19,15 +19,25 @@ Importing Python Libraries
 Loading Dataset
 
 Accessing Information about the dataset
+
 Cleaning the dataset
+
 Exporting the dataset
+
 Analysis: Bluecar
+
 Analysis: Utilib Counter
+
 Analysis: Utilib 1.4 Counter
+
 Conclusion
-Technologies and Softwares Used
+
+**Technologies and Softwares Used**
+
 Python 3
+
 Google Colab
+
 Jupyter Notebook
 
 Contact details

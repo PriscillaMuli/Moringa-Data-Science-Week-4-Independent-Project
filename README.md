@@ -10,7 +10,7 @@ Identify the most popular hour of the day for picking up a shared electric car (
 
 **Motivation**
 
-This project was undertaken as part of an assessemnt for a Data Science Course
+This project was undertaken as part of an assessement for a Data Science Course
 
 **Summary Guideline of Topics Covered in Analysis**
 

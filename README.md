@@ -1,1 +1,28 @@
 # Week-4
+
+Autolib Dataset Analysis
+Introduction
+This project seeks to help an electric car sharing service companyby analyzing the Autolib Dataset to  understand electric car usage over time. The project aims to solve the research problem which is to;
+
+Identify the most popular hour of the day for picking up a shared electric car (Bluecar) in the city of Paris over the month of April 2018.
+
+Motivation
+This project was undertaken as part of an assessemnt for a Data Science Course
+
+Summary Guideline of Topics covered in analysis
+Importing Python Libraries
+Loading Dataset
+Accessing Information about the dataset
+Cleaning the dataset
+Exporting the dataset
+Analysis: Bluecar
+Analysis: Utilib Counter
+Analysis: Utilib 1.4 Counter
+Conclusion
+Technologies and Softwares Used
+Python 3
+Google Colab
+Jupyter Notebook
+
+Contact details
+https://github.com/PriscillaMuli

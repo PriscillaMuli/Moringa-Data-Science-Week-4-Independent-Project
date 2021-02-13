@@ -15,7 +15,9 @@ This project was undertaken as part of an assessemnt for a Data Science Course
 **Summary Guideline of Topics Covered in Analysis**
 
 Importing Python Libraries
+
 Loading Dataset
+
 Accessing Information about the dataset
 Cleaning the dataset
 Exporting the dataset

@@ -40,6 +40,6 @@ Google Colab
 
 Jupyter Notebook
 
-Contact details
+**Contact details**
 
 https://github.com/PriscillaMuli
